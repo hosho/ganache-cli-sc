@@ -18,7 +18,7 @@
     "prepare": "npm run build"
   },
   "devDependencies": {
-    "ganache-core": "file:../ganache-core-sc",
+    "ganache-core": "hosho/ganache-core-sc",
     "on-build-webpack": "^0.1.0",
     "prepend-file": "^1.3.1",
     "shebang-loader": "0.0.1",
