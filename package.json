@@ -2,7 +2,7 @@
   "name": "ganache-cli",
   "version": "6.1.2",
   "bin": {
-    "testrpc-sc": "./build/cli.node.js"
+    "ganache-cli": "./build/cli.node.js"
   },
   "main": "./build/lib.node.js",
   "directories": {
